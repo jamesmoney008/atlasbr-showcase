@@ -2,7 +2,7 @@
 
 ## Home
 
-![Atlas Home](image (81).png)
+![Atlas Home](images/atlas-home.png)
 
 ## Atlas Radar
 
