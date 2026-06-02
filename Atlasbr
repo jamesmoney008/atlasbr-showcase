@@ -14,19 +14,14 @@ Built with artificial intelligence and automation at its core, AtlasBR transform
 - Intelligent RSS Aggregation
 - AI Agent Integration
 
-# AtlasBR
-
-## Home
-
-![Atlas Home](ca9bc152871288e28f337e58b8803f08e550c4c5)
-
-## Atlas Radar
-
-![Atlas Radar](images/atlas-radar.png)
-
-## Atlas Pulse
-
-![Atlas Pulse](images/atlas-pulse.png)
-
-
+atlasbr-showcase
+│
+├── README.md
+│
+└── images
+    ├── atlas-home.png
+    ├── atlas-radar.png
+    ├── atlas-pulse.png
+    ├── atlas-weather.png
+    ├── atlas-pix.png
 
